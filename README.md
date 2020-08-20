@@ -12,10 +12,10 @@ Think about which project you are most proud of up to this point that you have b
 
 Follow these steps for completing your project.
 
-- [ ] Send your team lead the link to your web app 
-- [ ] Show them that it has been added to your portfolio
-- [ ] If you don't have a portfolio, use this project time to create a portfolio, and deploy it with ZEIT ([here](https://github.com/LambdaSchool/portfolio-website) is a guide for this)
-- [ ] Once you have finished, your TL will count the project as completed
+- [x] Send your team lead the link to your web app -- https://mydailytodolist.vercel.app/ 
+- [x] Show them that it has been added to your portfolio -- added at bottom of my projects - http://selahcreativeservices.com/gregory-developer.html
+- [-] If you don't have a portfolio, use this project time to create a portfolio, and deploy it with ZEIT ([here](https://github.com/LambdaSchool/portfolio-website) is a guide for this)
+- [-] Once you have finished, your TL will count the project as completed
 
 ### Task 2a: MVP
 
@@ -34,5 +34,6 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
 Work on deploying a second, or even third portfolio project. If you have extra time, go back and update the styles, add features, fix bugs, etc, on all the sites so that they will look good for potential employers.
 
 ## Submission Format
-* [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
-* [ ] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR **or published site**
+* [x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+* [x] Fill out your module retrospective form [here](https://forms.lambdaschool.com/module-retrospective) with a link to your PR **or published site**
+ 
